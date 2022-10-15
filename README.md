@@ -2,7 +2,7 @@
 
 <ul>
   <li>Hiring Manager routes <li/>
-  <li>Create A Job :  https://mighty-stream-47638.herokuapp.com/jobs</li>
+    <li>Create A Job :  https://mighty-stream-47638.herokuapp.com/jobs</li>
     <li>Get all jobs of a hiring manager :https://mighty-stream-47638.herokuapp.com/manager/jobs</li>
     <li>Get a job details by id  :https://mighty-stream-47638.herokuapp.com/manager/jobs/:id</li>
     <li>Update a job : https://mighty-stream-47638.herokuapp.com/jobs/:id</li>
